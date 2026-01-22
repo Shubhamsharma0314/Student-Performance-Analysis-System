@@ -11,7 +11,6 @@ A comprehensive Python-based system for analyzing student academic performance a
 - Improvement Tracking: Detect significant improvements or declines
 - Section Analysis: Compare performance across different class sections
  <br>
-### Key Modules
 #### DataLoader
 Loads and validates student data from CSV files.
 #### StatisticsCalculator
