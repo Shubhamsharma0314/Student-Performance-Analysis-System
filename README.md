@@ -12,9 +12,9 @@ A comprehensive Python-based system for analyzing student academic performance a
 - Section Analysis: Compare performance across different class sections
  <br>
 ### Key Modules
-###DataLoader
+#### DataLoader
 Loads and validates student data from CSV files.
-####StatisticsCalculator
+#### StatisticsCalculator
 
 - calculate_overall_stats(): Overall performance metrics
 - calculate_semester_stats(): Semester-wise comparison
